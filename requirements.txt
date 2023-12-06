@@ -9,6 +9,7 @@ coverage
 cryptography
 Django
 django-debug-toolbar
+djangorestframework
 docopt
 Faker
 flake8
